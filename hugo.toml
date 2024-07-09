@@ -1,0 +1,5 @@
+baseURL = 'https://blog.comfyworkspace.com/'
+languageCode = 'en-us'
+title = 'Comfy Workspace'
+
+theme = 'paper'
